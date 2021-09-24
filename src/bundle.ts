@@ -1,4 +1,4 @@
-// @ts-nocheck
+// @ts-ignore
 import { registerSubapps, start } from '@icatjs/micro';
 import { markMan } from 'mark-man';
 

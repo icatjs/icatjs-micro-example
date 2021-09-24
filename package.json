@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@icatjs/micro": "^0.0.8-experimental-0.3",
-    "mark-man": "^0.0.1",
+    "mark-man": "~0.0.1",
     "single-spa": "^5.8.2"
   },
   "devDependencies": {
